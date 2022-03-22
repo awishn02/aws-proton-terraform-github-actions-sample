@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "ced08f61-b2de-4ea2-90cc-c3561d0a295a",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:617296401743:environment/eks_vpc",
+    "templateArn" : "arn:aws:proton:us-east-1:617296401743:environment-template/eks-mng-karpenter-with-new-vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "1"
+  }
+}
