@@ -4,7 +4,7 @@
         "region": "us-west-2",
         "state_bucket":"wishnick-terraform-states"
     },
-    "test": {
+    "fail_test": {
         "role": "arn:aws:iam::617296401743:role/TerraformGitHubActionsRole",
         "region": "us-west-2",
         "state_bucket":"wishnick-terraform-states"
